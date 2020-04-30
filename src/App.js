@@ -1,4 +1,6 @@
+import React from 'react';
 import './App.css';
+import ReactDOM from 'react-dom';
 import QuoteB from "./quotebegin.jpg";
 import QuoteE from "./quoteend.jpg";
 import { ReactComponent as Icon } from "./twitter.svg";
