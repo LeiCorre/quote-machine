@@ -80,12 +80,13 @@ class QuoteMachine extends React.Component {
       <div style={{height: "100%"}}>
         <div className="foot" style={{background: "white"}}>Designed by LeiCorre for FCC &hearts; &emsp; | &emsp; Source Code for Project .js | .css | .html</div>
         <div className="container-fluid backg" style={{height: "100%", textAlign: "center"}}> 
-        
-
         <h1 className="headText">Inspired Quotes
         <br/></h1>
         <br /><br />
-        <div className="ml-lg-2 ml-md-2 ml-sm-1 ml-xl-3"></div>
+        <div className="row">
+
+        
+        <div className="col-lg-2 col-md-2 col-sm-1 col-xl-3"></div>
         <div className="col-lg-8 col-md-8 col-sm-10 col-xl-6">
           
           <div id="quote-box">
@@ -111,10 +112,11 @@ class QuoteMachine extends React.Component {
              <div id="author" className="author" style={{verticalAlign: "middle"}}>{quotesArray[this.state.index][1]}
             </div> 
             <br />
-          <button  className="btn btn-primary" id="new-quote" onClick={this.handleClick}>New Quote</button>
+          <button  className="btn btn-dark" id="new-quote" onClick={this.handleClick}>New Quote</button>
         </div> 
         </div>
-        <div className="mr-lg-2 mr-md-2 mr-sm-1 mr-xl-3"></div>
+        <div className="col-lg-2 col-md-2 col-sm-1 col-xl-3"></div>
+        </div>
         </div>
       </div>
       
