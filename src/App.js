@@ -74,7 +74,7 @@ class QuoteMachine extends React.Component {
     
   const tweetQuote = ("http://twitter.com/intent/tweet?text=" + quotesArray[this.state.index][0] + quotesArray[this.state.index][1]).replace(/\s/g, "%20");
   
-    console.log(tweetQuote);
+    
     return (
       
       <div style={{height: "100%"}}>
