@@ -81,7 +81,7 @@ class QuoteMachine extends React.Component {
         <div className="foot" style={{background: "white"}}>Designed by LeiCorre for FCC &hearts; &emsp; | &emsp; Source Code for Project .js | .css | .html</div>
         <div className="container-fluid backg" style={{height: "100%", textAlign: "center"}}> 
         <h1 className="headText">Inspired Quotes
-        <br/></h1>
+        </h1><br/>
         <br /><br />
         <div className="row">
 
