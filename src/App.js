@@ -115,7 +115,7 @@ class QuoteMachine extends React.Component {
         </div>
         <div className="col-lg-2 col-md-2 col-sm-1 col-xl-3"></div>
         </div>
-        <div className="foot" style={{background: "white"}}>Designed by LeiCorre for FCC &hearts; &emsp; | &emsp; Source Code for Project .js | .css | .html</div>
+        <div className="foot" style={{background: "white"}}>Designed by LeiCorre for FCC &hearts; </div>
         </div>
       </div>
       
