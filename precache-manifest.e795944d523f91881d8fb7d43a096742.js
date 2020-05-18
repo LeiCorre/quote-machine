@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82861f59f30189d17ef37f70bed168a4",
+    "revision": "3c76d6865028002e8e1f60fd1a17c83a",
     "url": "/quote-machine/index.html"
   },
   {
-    "revision": "df583980cd9afb42e0b4",
-    "url": "/quote-machine/static/css/main.926bbe2e.chunk.css"
+    "revision": "e2e300118ffd9fa3b419",
+    "url": "/quote-machine/static/css/main.b0128ccf.chunk.css"
   },
   {
     "revision": "0d6569d858a685f95ef3",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quote-machine/static/js/2.cffb3c5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df583980cd9afb42e0b4",
-    "url": "/quote-machine/static/js/main.e7fa84a2.chunk.js"
+    "revision": "e2e300118ffd9fa3b419",
+    "url": "/quote-machine/static/js/main.d062727b.chunk.js"
   },
   {
     "revision": "4de20eb4d0cefe3f0eda",
     "url": "/quote-machine/static/js/runtime-main.d37b2625.js"
+  },
+  {
+    "revision": "dc7bceaa5cca20023e332a65fc9aa2a1",
+    "url": "/quote-machine/static/media/BerkshireSwash-Regular.dc7bceaa.ttf"
   },
   {
     "revision": "12539a56353b3f23f16d27711ebebd58",
