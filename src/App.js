@@ -112,7 +112,7 @@ class QuoteMachine extends React.Component {
              <div id="author" className="author" style={{verticalAlign: "middle"}}>{quotesArray[this.state.index][1]}
             </div> 
             <br />
-          <button  className="btn btn-dark" id="new-quote" onClick={this.handleClick}>New Quote</button>
+          <button  className="btn btn-dark" id="new-quote" onClick={this.handleClick}>New Quote</button> <br/> <br/>
         </div> 
         </div>
         <div className="col-lg-2 col-md-2 col-sm-1 col-xl-3"></div>
