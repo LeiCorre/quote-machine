@@ -81,8 +81,8 @@ class QuoteMachine extends React.Component {
        
         <div className="container-fluid backg" style={{height: "100%", textAlign: "center"}}> 
         <h1 className="headText">Inspired Quotes
-        </h1><br/>
-        <br /><br />
+        </h1>
+        
         <div className="row">
 
         
