@@ -108,7 +108,7 @@ class QuoteMachine extends React.Component {
               </div>
            
            
-            </div> <br /> <br />
+            </div> <br /> <br /><br />
              <div id="author" className="author" style={{verticalAlign: "middle"}}>{quotesArray[this.state.index][1]}
             </div> 
             <br />
