@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quote-machine/static/css/main.a750b310.chunk.css",
-    "main.js": "/quote-machine/static/js/main.0a72e821.chunk.js",
-    "main.js.map": "/quote-machine/static/js/main.0a72e821.chunk.js.map",
+    "main.css": "/quote-machine/static/css/main.6faf4de1.chunk.css",
+    "main.js": "/quote-machine/static/js/main.37b9ce18.chunk.js",
+    "main.js.map": "/quote-machine/static/js/main.37b9ce18.chunk.js.map",
     "runtime-main.js": "/quote-machine/static/js/runtime-main.d37b2625.js",
     "runtime-main.js.map": "/quote-machine/static/js/runtime-main.d37b2625.js.map",
     "static/js/2.cffb3c5a.chunk.js": "/quote-machine/static/js/2.cffb3c5a.chunk.js",
     "static/js/2.cffb3c5a.chunk.js.map": "/quote-machine/static/js/2.cffb3c5a.chunk.js.map",
     "index.html": "/quote-machine/index.html",
-    "precache-manifest.6ffb6576e8655cbf50f53ed4c05c757a.js": "/quote-machine/precache-manifest.6ffb6576e8655cbf50f53ed4c05c757a.js",
+    "precache-manifest.a761beeecd649bf34901fe553e8e8356.js": "/quote-machine/precache-manifest.a761beeecd649bf34901fe553e8e8356.js",
     "service-worker.js": "/quote-machine/service-worker.js",
-    "static/css/main.a750b310.chunk.css.map": "/quote-machine/static/css/main.a750b310.chunk.css.map",
+    "static/css/main.6faf4de1.chunk.css.map": "/quote-machine/static/css/main.6faf4de1.chunk.css.map",
     "static/js/2.cffb3c5a.chunk.js.LICENSE.txt": "/quote-machine/static/js/2.cffb3c5a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/quote-machine/static/media/background.12539a56.jpg",
     "static/media/twitter.084e6118.svg": "/quote-machine/static/media/twitter.084e6118.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.d37b2625.js",
     "static/js/2.cffb3c5a.chunk.js",
-    "static/css/main.a750b310.chunk.css",
-    "static/js/main.0a72e821.chunk.js"
+    "static/css/main.6faf4de1.chunk.css",
+    "static/js/main.37b9ce18.chunk.js"
   ]
 }
