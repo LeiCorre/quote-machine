@@ -31,9 +31,7 @@ const quotesArray = [
   ["God cannot give us a happiness and peace apart from Himself, because it is not there. There is no such thing.", "― C.S. Lewis"],
   
   ["I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin, but you begin anyway and see it through no matter what.", "― Atticus Finch - Harper Lee"],
-  
-  ["For what it’s worth: it’s never too late or, in my case, too early to be whoever you want to be. There’s no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you’re proud of. If you find that you’re not, I hope you have the courage to start all over again.", "― Eric Roth"],
-  
+   
   ["As different as we are from one another, as unique as each one of us is, we are much more the same than we are different. That may be the most essential message of all, as we help our children grow toward being caring, compassionate, and charitable adults.", "― Mister Rogers"],
   
   ["Most of us, I believe, admire strength. It's something we tend to respect in others, desire for ourselves, and wish for our children. Sometimes, though, I wonder if we confuse strength with other words—like 'aggression' and even 'violence'. Real strength is neither male nor female; but it is, quite simply, one of the finest characteristics that a human being can possess.", "― Fred Rogers"],
@@ -64,7 +62,7 @@ class QuoteMachine extends React.Component {
     this.handleClick = this.handleClick.bind(this);
   }
   handleClick() {
-    const generate = expression(0, 19)
+    const generate = expression(0, 18)
     this.setState({
       index: generate
     })
