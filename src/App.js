@@ -78,7 +78,7 @@ class QuoteMachine extends React.Component {
     return (
       
       <div style={{height: "100%"}}>
-        <div className="foot" style={{background: "white"}}>Designed by LeiCorre for FCC &hearts; &emsp; | &emsp; Source Code for Project .js | .css | .html</div>
+       
         <div className="container-fluid backg" style={{height: "100%", textAlign: "center"}}> 
         <h1 className="headText">Inspired Quotes
         </h1><br/>
@@ -108,7 +108,7 @@ class QuoteMachine extends React.Component {
               </div>
            
            
-            </div>
+            </div> <br /> <br />
              <div id="author" className="author" style={{verticalAlign: "middle"}}>{quotesArray[this.state.index][1]}
             </div> 
             <br />
@@ -117,6 +117,7 @@ class QuoteMachine extends React.Component {
         </div>
         <div className="col-lg-2 col-md-2 col-sm-1 col-xl-3"></div>
         </div>
+        <div className="foot" style={{background: "white"}}>Designed by LeiCorre for FCC &hearts; &emsp; | &emsp; Source Code for Project .js | .css | .html</div>
         </div>
       </div>
       

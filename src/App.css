@@ -26,7 +26,7 @@ body, html {
   left: 1vw;
   min-height: 2vh;
   opacity: 0.9;
-  bottom: 7px;
+  margin-top: 5vh;
   position: absolute;
   text-align: center;
   font-size: 13px;
